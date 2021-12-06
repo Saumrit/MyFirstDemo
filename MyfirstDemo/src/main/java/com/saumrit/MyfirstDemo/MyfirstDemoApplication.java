@@ -8,7 +8,8 @@ public class MyfirstDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyfirstDemoApplication.class, args);
-		System.out.println("I AM THE SECOND-CHANGED PART....");
+		System.out.println("YOU ARE THE tHIRED-CHANGED PART....");
+		System.out.println("Hi There!!");
 	}
 
 }
