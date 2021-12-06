@@ -8,9 +8,8 @@ public class MyfirstDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyfirstDemoApplication.class, args);
-		System.out.println("YOU ARE THE tHIRED-CHANGED PART....");
+		System.out.println("YOU ARE THE THIRED-CHANGED PART....");
 		System.out.println("Hi There!!");
-		System.out.println("Inside the OwnBranch....");
 	}
 
 }
